@@ -24,7 +24,7 @@ a {
 /* Header */
 
 .header {
-  background-image: url(/img/main_image.jpg);
+  background-image: url(../img/main_image.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -147,7 +147,7 @@ a {
 
 .manager.wrapper {
   height: 20rem;
-  background-image: url(/img/bg-manager.webp);
+  background-image: url(../img/bg-manager.webp);
   background-position: center center;
   background-size: cover;
 }
